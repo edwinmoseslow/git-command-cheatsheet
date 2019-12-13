@@ -1,10 +1,14 @@
 # Git-Command Cheatsheet
+
+## Creating and Cloning
 create a new repository :
 > git init
 
 clone :
 > git clone <*URL*>
 
+
+## Check, Add, Commit, Push and Pull
 check status :
 > git status
 
@@ -33,7 +37,7 @@ pull :
 merge :
 > git merge <*branch*>
 
-# Branches & Tags
+## Branches & Tags
 list out all existing branches :
 > git branch -av
 
@@ -46,7 +50,7 @@ delete branch :
 mark current commit with a tag :
 git tag <*tag-name*>
 
-# Commit History
+## Commit History
 log :
 > git log
 
