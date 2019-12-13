@@ -37,6 +37,9 @@ pull :
 merge :
 > git merge <*branch*>
 
+checking out branch :
+> git checkout <*branch*>
+
 ## Branches & Tags
 list out all existing branches :
 > git branch -av
