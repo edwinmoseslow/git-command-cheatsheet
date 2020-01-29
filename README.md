@@ -37,6 +37,12 @@ pull :
 merge :
 > git merge <*branch*>
 
+update what will be committed :
+> git add/rm <*file*>
+
+discard changes in working directory :
+> git checkout -- <*file*>
+
 checking out branch :
 > git checkout <*branch*>
 
